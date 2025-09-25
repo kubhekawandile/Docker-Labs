@@ -14,6 +14,8 @@ docker rm $(docker ps -aq)  # delete all containers.
 docker rmi <image_name>     # delete an existing image.
 dokcer pull <image_name>    # pulls image
 ```
+---
+
 
 - **Listed Containers currently in docker.**
 ![cmd](evidence/list_container.png)
