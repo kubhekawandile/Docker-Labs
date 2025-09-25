@@ -5,16 +5,23 @@
 ---
 
 - **Inspected the environment variables set on the running container.**
+
+  
 ![cmd](evidence/inspect_1.png)
 ![cmd](evidence/env.png)
 
 - **Ran a container and specified environment variables.**
+
+  
 ![cmd](evidence/env_2.png)
 ![cmd](evidence/app.png)
 
 - **Deployed a mysql database using the mysql image, and configured required environment variables.**
+
+  
 ![cmd](evidence/db.png)
 ![cmd](evidence/db_1.png)
+
 
 ---
 
