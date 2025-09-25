@@ -30,3 +30,5 @@ dokcer pull <image_name>    # pulls image
 - **Removed all images in Docker.**
 ![cmd](evidence/rmi.png)
 
+- **Ran an instance and mapped relevant ports to host and container**
+![cmd](evidence/instance.png)
