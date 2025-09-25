@@ -22,7 +22,7 @@ The project demonstrates not only technical mastery of Docker but also how conta
 
 ## How to Use This Repo
 
-1. Browse the `Evidence` folder for screenshots from each lab.  
+1. Browse the `evidence` folder for screenshots from each lab.  
 2. Read the corresponding `Writeup-x.md` for detailed steps, observations, and **GRC key takeaways**.  
 3. Apply these lessons to real-world container governance, compliance, and operational practices.
 
