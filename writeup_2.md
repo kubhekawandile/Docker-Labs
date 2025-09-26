@@ -37,8 +37,8 @@
 
 ## GRC Insight:
 Proper management of environment variables is critical for **security and compliance**:
-Secrets such as database passwords should be stored securely (e.g., using secrets managers) instead of being hard-coded.
- Consistent variable naming aids **auditability** and **configuration governance**.
+ - Secrets such as database passwords should be stored securely (e.g., using secrets managers) instead of being hard-coded.
+ - Consistent variable naming aids **auditability** and **configuration governance**.
 
 
 
