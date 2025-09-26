@@ -16,7 +16,7 @@
 - **Created a `docker-compose.yml` file under the directory `/root/clickcounter.` and, ran `docker-compose up.`**
 ![cmd](evidence/config.png)
 ![cmd](evidence/created.png)
-1[cmd](evidence/run_2.png)
+![cmd](evidence/run_2.png)
 
 - **Accessed clickcounter webpage.**
 ![cmd](evidence/click.png)
