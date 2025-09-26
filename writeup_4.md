@@ -17,7 +17,7 @@
 
 ---
 
-## Lessons Learned – Docker CMD & ENTRYPOINT Lab
+## Lessons Learned 
 
 - Examined how an image’s **ENTRYPOINT** defines the primary executable that always runs when a container starts.  
 - Reviewed how **CMD** provides default arguments or commands that can be overridden at runtime.  
